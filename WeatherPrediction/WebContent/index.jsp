@@ -60,7 +60,7 @@
 			<option value="4">COP</option> 
 		</select><br/><br/></li>
 		
- <li><b>Prediction Time:</b><img src="images/spacer.gif" width="100px" height="1px"><select name="selGCMSeason" id="selGCMSeason" style="font-family : verdana; font-size : 8pt">
+ <li><b>Forecast initialization month:</b><img src="images/spacer.gif" width="100px" height="1px"><select name="selGCMSeason" id="selGCMSeason" style="font-family : verdana; font-size : 8pt">
 			<option value="0" selected>..Select..</option> 
 			<option value="1">Jan</option>
 			<option value="2">Feb</option>
