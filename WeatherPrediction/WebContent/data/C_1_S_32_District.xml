@@ -1,0 +1,41 @@
+<Districts>
+<District><id>	1	</id><name>	Araria	</name></District>
+<District><id>	2	</id><name>	Aurangabad	</name></District>
+<District><id>	3	</id><name>	Banka	</name></District>
+<District><id>	4	</id><name>	Begusarai	</name></District>
+<District><id>	5	</id><name>	Bhabua	</name></District>
+<District><id>	6	</id><name>	Bhagalpur	</name></District>
+<District><id>	7	</id><name>	Bhojpur	</name></District>
+<District><id>	8	</id><name>	Buxar	</name></District>
+<District><id>	9	</id><name>	Darbhanga	</name></District>
+<District><id>	10	</id><name>	Gaya	</name></District>
+<District><id>	11	</id><name>	Gopalganj	</name></District>
+<District><id>	12	</id><name>	Jamui	</name></District>
+<District><id>	13	</id><name>	Jehanabad	</name></District>
+<District><id>	14	</id><name>	Katihar	</name></District>
+<District><id>	15	</id><name>	Khagaria	</name></District>
+<District><id>	16	</id><name>	Kishanganj	</name></District>
+<District><id>	17	</id><name>	Lakhisarai	</name></District>
+<District><id>	18	</id><name>	Madhepura	</name></District>
+<District><id>	19	</id><name>	Madhubani	</name></District>
+<District><id>	20	</id><name>	Munger	</name></District>
+<District><id>	21	</id><name>	Muzaffarpur	</name></District>
+<District><id>	22	</id><name>	Nalanda	</name></District>
+<District><id>	23	</id><name>	Nawada	</name></District>
+<District><id>	24	</id><name>	Pashchim Champaran	</name></District>
+<District><id>	25	</id><name>	Patna	</name></District>
+<District><id>	26	</id><name>	Purba Champaran	</name></District>
+<District><id>	27	</id><name>	Purnia	</name></District>
+<District><id>	28	</id><name>	Rohtas	</name></District>
+<District><id>	29	</id><name>	Saharsa	</name></District>
+<District><id>	30	</id><name>	Samastipur	</name></District>
+<District><id>	31	</id><name>	Saran	</name></District>
+<District><id>	32	</id><name>	Sheikhpura	</name></District>
+<District><id>	33	</id><name>	Sheohar	</name></District>
+<District><id>	34	</id><name>	Aurangabad	</name></District>
+<District><id>	35	</id><name>	Sitamarhi	</name></District>
+<District><id>	36	</id><name>	Siwan	</name></District>
+<District><id>	37	</id><name>	Supaul	</name></District>
+<District><id>	38	</id><name>	Vaishali	</name></District>
+</Districts>
+

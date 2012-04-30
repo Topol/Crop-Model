@@ -1,0 +1,34 @@
+*SORGHUM SPECIES COEFFICIENTS: GECER040 MODEL
+
+*TEMPERATURE EFFECTS
+!       TBASE TOP1  TOP2  TMAX
+  PRFTC  8.0  20.0  40.0  50.0     !Effect of temperature on photosynthesis
+  RGFIL  7.0  22.0  48.0  50.0     !Effect of temperature on relative grain filling rate
+
+*PHOTOSYNTHESIS PARAMETERS 
+  PARSR   0.50      !Conversion of solar radiation to PAR 
+  CO2X     0   220   330   440   550   660   770   880   990  9999
+  CO2Y  0.00  0.81  1.00  1.03  1.06  1.10  1.13  1.16  1.18  1.25
+
+*STRESS RESPONSE
+  FSLFW   0.050     !Fraction of leaf area senesced under 100% water stress, 1/day
+  FSLFN   0.050     !Fraction of leaf area senesced under 100% nitrogen stress, 1/day
+  
+*SEED GROWTH PARAMETERS     
+  DSGT    21.0      !Maximum days from sowing to germination before seed dies.
+  DGET   150.0      !Growing degree days between germination and emergence after which the seed dies due to drought
+  SWCG    0.02      !Minimimum available soil water required for seed germination, cm3/cm3 
+  
+*ROOT PARAMETERS
+  PORM    0.05      !Minimum volume required for supplying oxygen to roots for optimum growth (1-1.0)
+  RWMX    0.03      !Maximum water uptake per unit root lenght, cm3 water/cm root
+  RLWR    0.98      !Root length to weight ratio, cm/g
+  RWUEP1  1.50      !Factor to modify water stress for cell expansion
+
+
+
+  
+
+
+
+

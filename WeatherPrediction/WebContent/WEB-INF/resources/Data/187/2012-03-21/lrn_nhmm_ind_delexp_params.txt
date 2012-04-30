@@ -1,0 +1,66 @@
+# Action
+action learn
+
+# Type of the model
+model_type nhmm
+
+# Number of hidden states
+num_states 4
+
+# Emission distribution
+emission
+independent 3
+mixture-distinct-prior 3 0.0001
+delta 0.0
+exponential
+exponential
+
+# Data file
+data ./HMM_Input.txt
+
+# Number of finite-valued vector components for the data
+num_real_data_components 3
+
+# Number of output data sequences
+num_data_sequences 28
+
+# Length of each sequence
+data_sequence_length 122
+
+# Output file
+output ./HMM_lrn_nhmm4_ind.txt
+
+# Number of random restarts
+num_restarts 1
+
+# em_precision
+em_precision 5e-05
+
+# set for monitoring progress ..
+em_verbose
+
+# xval_type
+xval_type none
+
+# set for short print out ..
+short-display
+
+# initialization
+initialization em
+
+# Number of real input component
+num_real_input_components 1
+
+# Number of predictor
+input_dimensionality 1
+
+# Input filename
+input_filename ./GCM.txt
+
+# Number of input data sequences
+num_input_sequences 28
+
+# Length of input sequence
+input_sequence_length 122
+
+em_verbose

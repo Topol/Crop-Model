@@ -1,0 +1,33 @@
+<States>
+<State><id>1</id><name>Andhra Pradesh</name></State>
+<State><id>2</id><name>Arunachal Pradesh</name></State>
+<State><id>3</id><name>Assam</name></State>
+<State><id>4</id><name>Bihar</name></State>
+<State><id>5</id><name>Chandigarh</name></State>
+<State><id>6</id><name>Chhatisgarh</name></State>
+<State><id>7</id><name>Dadra and Nagar Haveli</name></State>
+<State><id>8</id><name>Delhi</name></State>
+<State><id>9</id><name>Goa</name></State>
+<State><id>10</id><name>Gujarat</name></State>
+<State><id>11</id><name>Haryana</name></State>
+<State><id>12</id><name>Himachal Pradesh</name></State>
+<State><id>13</id><name>Jammu and Kashmir</name></State>
+<State><id>14</id><name>Jharkhand</name></State>
+<State><id>15</id><name>Karnataka</name></State>
+<State><id>16</id><name>Kerela</name></State>
+<State><id>17</id><name>Madhya Pradesh</name></State>
+<State><id>18</id><name>Maharashtra</name></State>
+<State><id>19</id><name>Manipur</name></State>
+<State><id>20</id><name>Meghalaya</name></State>
+<State><id>21</id><name>Mizoram</name></State>
+<State><id>22</id><name>Orissa</name></State>
+<State><id>23</id><name>Puducherry</name></State>
+<State><id>24</id><name>Punjab</name></State>
+<State><id>25</id><name>Rajasthan</name></State>
+<State><id>26</id><name>Sikkim</name></State>
+<State><id>27</id><name>Tamil Nadu</name></State>
+<State><id>28</id><name>Tripura</name></State>
+<State><id>29</id><name>Uttar Pradesh</name></State>
+<State><id>30</id><name>Uttaranchal</name></State>
+<State><id>31</id><name>West Bengal</name></State>
+</States> 
