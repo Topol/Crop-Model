@@ -1,0 +1,19 @@
+create table FAOSoilMaps(
+id Varchar(10),
+SoilType Varchar(20)
+);
+
+create table FAOSoilInfo(
+SoilType Varchar(20),
+SandTop Varchar(20),
+SandSub Varchar(20),
+SiltTop Varchar(20),
+SiltSub Varchar(20),
+ClayTop Varchar(20),
+ClaySub Varchar(20)
+);
+
+LOAD DATA INFILE 'C:/Users/TOPOL/Desktop/GCM and Crop Model/ServerContentDownloader/soilmaps.txt' INTO TABLE FAOSoilMaps ;
+LOAD DATA INFILE 'C:/Users/TOPOL/Desktop/GCM and Crop Model/ServerContentDownloader/soilinfo.txt' INTO TABLE FAOSoilInfo ;
+
+select FAOSoilInfo.SandTop, FAOSoilInfo.SiltTop, FAOSoilInfo.ClayTop from FAOSoilInfo,FAOSoilMaps where FAOSoilInfo.SoilType = FAOSoilMaps.SoilType and FAOSoilMaps.id = 3677;

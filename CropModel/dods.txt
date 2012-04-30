@@ -1,0 +1,45 @@
+Dataset {
+    Float32 T[T = 12784];
+    Float32 Y[Y = 65];
+    Float32 X[X = 69];
+    Grid {
+     ARRAY:
+        Float32 aprod[T = 12784][Y = 65][X = 69];
+     MAPS:
+        Float32 T[T = 12784];
+        Float32 Y[Y = 65];
+        Float32 X[X = 69];
+    } aprod;
+} aprod;
+Attributes {
+    T {
+        String calendar "standard";
+        Float32 pointwidth 1.;
+        String bounds "T";
+        Int32 gridtype 0;
+        String units "julian_day";
+    }
+    Y {
+        Float32 pointwidth 0.5;
+        Int32 gridtype 0;
+        String units "degree_north";
+    }
+    X {
+        Float32 pointwidth 0.5;
+        Int32 gridtype 0;
+        String units "degree_east";
+    }
+    aprod {
+        String long_name "GRIDDED RAINFALL";
+        Float32 step 1.;
+        String standard_name "rainfall_rate";
+        Float32 pointwidth 1.;
+        String calendar "standard";
+        Float32 file_missing_value -999.;
+        String units "mm/day";
+        Float32 missing_value NaN;
+    }
+    NC_GLOBAL {
+        String Conventions "IRIDL";
+    }
+}

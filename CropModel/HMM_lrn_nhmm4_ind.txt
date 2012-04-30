@@ -1,0 +1,189 @@
+# This file contains the parameters of the HMM
+# Transition probability:
+# State 1
+# Constant term
+0.000000000000e+00
+
+# Transition terms
+	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00	0.000000000000e+00
+
+# Linear terms
+	0.000000000000e+00
+
+# State 2
+# Constant term
+5.902371067481e-01
+
+# Transition terms
+	-1.876189562543e+00	2.858407630978e+00	-8.650890000982e-01	1.590229277872e+00
+
+# Linear terms
+	1.375770467969e-03
+
+# State 3
+# Constant term
+-7.663749594771e-01
+
+# Transition terms
+	-1.497620637118e+00	1.649894728988e+00	1.280068718861e+00	-9.696044362220e-01
+
+# Linear terms
+	-2.162067701057e-03
+
+# State 4
+# Constant term
+2.858612141917e+00
+
+# Transition terms
+	-1.604939510421e+00	1.544270025387e+00	-3.151890080146e+00	3.719986158550e+00
+
+# Linear terms
+	-3.327260512928e-02
+
+
+# Parameters for the emission distributions for different possible hidden states:
+# Variable #1:
+# State #1:
+# 3-component mixture
+# Mixing probabilities:
+	2.250434993826e-01	3.803118898626e-01	3.946446107548e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+3.096138974626e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+9.958228640850e-02
+# 3-component mixture
+# Mixing probabilities:
+	2.833990446322e-01	1.532469567186e-01	5.633539986492e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+1.588153845547e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+6.768519682028e-01
+# 3-component mixture
+# Mixing probabilities:
+	6.015441788639e-01	1.375735023835e-01	2.608823187526e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+1.278140473887e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+8.922653071462e-01
+# State #2:
+# 3-component mixture
+# Mixing probabilities:
+	8.937643403848e-01	6.080255479222e-02	4.543310482299e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+2.814673821441e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+4.364782562460e-02
+# 3-component mixture
+# Mixing probabilities:
+	4.321421086511e-01	3.755604026493e-01	1.922974886996e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+1.532707074402e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+7.807524874362e-01
+# 3-component mixture
+# Mixing probabilities:
+	3.348582202064e-01	3.972265101701e-01	2.679152696236e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+8.299678666657e-02
+# Mixture component 3:
+# Parameter for geometric distribution:
+9.635314852138e-01
+# State #3:
+# 3-component mixture
+# Mixing probabilities:
+	1.440374507455e-01	4.946275809444e-01	3.613349683101e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+6.877425062254e-02
+# Mixture component 3:
+# Parameter for geometric distribution:
+2.473062445253e-02
+# 3-component mixture
+# Mixing probabilities:
+	4.039319838399e-03	2.118971286527e-01	7.840635515089e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+6.004276836530e-02
+# Mixture component 3:
+# Parameter for geometric distribution:
+6.009012123595e-02
+# 3-component mixture
+# Mixing probabilities:
+	4.202010532898e-02	2.369566725858e-01	7.210232220852e-01
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+1.315831514553e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+3.823681783258e-02
+# State #4:
+# 3-component mixture
+# Mixing probabilities:
+	9.725760125677e-01	4.865857584512e-03	2.255812984775e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+6.077645334765e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+2.459107767442e-01
+# 3-component mixture
+# Mixing probabilities:
+	9.650446118521e-01	2.106435943411e-02	1.389102871376e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+1.477231579392e+00
+# Mixture component 3:
+# Parameter for geometric distribution:
+2.751941035505e-01
+# 3-component mixture
+# Mixing probabilities:
+	9.846242962790e-01	4.990457560868e-03	1.038524616017e-02
+# Mixture component 1:
+# Dirac delta function at 0.000000000000e+00
+# Mixture component 2:
+# Parameter for geometric distribution:
+2.857043842404e-01
+# Mixture component 3:
+# Parameter for geometric distribution:
+1.632015029538e+00
+
+
+# Log-likelihood of the data set: -3.846249211722e+04
+# Log-posterior of the data set: -3.845417563538e+04
+# Per-dimension log-posterior of the data set: -1.780780570315e+00
+# Number of free (real-valued) parameters: 66
+# Bayes Information Criterion score: 7.751116709469e+04
+# Failure rate: 0 out of 1.

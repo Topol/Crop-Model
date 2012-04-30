@@ -1,0 +1,14 @@
+*Output file list
+
+@FILENAME        DESCRIPTION
+1-21    .OPG     Daily plant growth output file                    
+1-21    .OPN     Daily plant nitrogen output file                  
+1-21    .OSN     Daily soil nitrogen output file                   
+1-21    .OTS     Daily soil temperature output file                
+1-21    .OSW     Daily soil water output file                      
+1-21    .OEB     Daily soil-plant-atmosphere output file           
+1-21    .OWE     Daily weather output file                         
+1-21    .OSU     Seasonal summary output file                      
+1-21    .OEV     Evaluation output file (simulated vs. measured)   
+SoilWatBal.OUT   Seasonal soil water balance                       
+Warning.OUT      Warning messages                                  

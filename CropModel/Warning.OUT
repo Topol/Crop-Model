@@ -1,0 +1,23 @@
+*WARNING DETAIL FILE
+
+******************************************************************************
+
+ HEADER  YEAR DOY = 2003  56
+ *RUN   1                                                                      
+  HEADER.OUT file does not exist or could not be opened.                       
+  Output file headers cannot be generated.                                     
+
+*RUN   1        : RAINFED LOW NITROGEN    
+ MODEL          : SGCER    - Grain sorghum   
+ EXPERIMENT     : GATI0301 SG    NIT X IRR, GA_TIFTON 2N*3I                     
+ TREATMENT  1   : RAINFED LOW NITROGEN    
+
+
+ IPIBS   YEAR DOY = 2003  56
+ Method of photosynthesis invalid for model SGCER   .                          
+ Changed to Canopy photosynthesis.                                             
+
+ IPSOIL  YEAR DOY = 2003  56
+ File does not exist:                                                          
+ SOILN040.SOL                                                                  
+ Default residue characteristics will be used.                                 
